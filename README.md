@@ -1,4 +1,4 @@
-# uzairthemeextension README
+# UzairThemeCpp README
 
 ## Working with Markdown
 
