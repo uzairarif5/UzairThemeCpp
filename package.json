@@ -1,0 +1,21 @@
+{
+  "name": "uzairthemeextension",
+  "displayName": "UzairThemeExtension",
+  "description": "My personal theme for VSCode (for C++)",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.146.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Uzair Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Uzair Theme-color-theme.json"
+      }
+    ]
+  }
+}
