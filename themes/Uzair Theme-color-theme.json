@@ -56,6 +56,7 @@
 		{
 			"scope": [
 				"entity.name.function.preprocessor",
+				"entity.name.type.template",
 				"variable.other.object",
 				"variable.other.unknown",
 				"variable.other.assignment",
@@ -150,6 +151,7 @@
 				"keyword.other.concept",
 				"keyword.other.delete",
 				"keyword.other.default",
+				"keyword.other.static-assert",
 				"entity.other.attribute",
 				"constant.language"
 			],
