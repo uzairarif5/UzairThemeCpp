@@ -79,14 +79,15 @@
 		{
 			"scope": [
 				"keyword.control",
-				"keyword.other.using",
-				"keyword.other.typedef",
+				"keyword.other",
 				"storage.type.namespace",
 				"storage.type.class",
 				"storage.type.modifier",
 				"storage.type.enum",
 				"storage.type.template",
 				"storage.type.struct",
+				"keyword.operator.delete",
+				"keyword.operator.new",
 			],
 			"settings": {
 				"foreground": "#cb7df7"
@@ -141,17 +142,12 @@
 		},
 		{
 			"scope": [
+				"keyword.other.decltype",
 				"storage.type.primitive",
 				"storage.modifier.specifier",
 				"storage.modifier.constexpr",
 				"storage.modifier.virtual",
 				"keyword.operator.cast",
-				"keyword.operator.delete",
-				"keyword.other.operator.overload",
-				"keyword.other.concept",
-				"keyword.other.delete",
-				"keyword.other.default",
-				"keyword.other.static-assert",
 				"entity.other.attribute",
 				"constant.language"
 			],
